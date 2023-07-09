@@ -1,0 +1,32 @@
+[
+    {
+        "userName": "Gepolter",
+        "pw": "test",
+        "mail": "dominik.heyer@iubh-dualesstudium.de",
+        "locationLatLng":  [51.51564471457827, 14.229261140612177],
+        "distMetric": "km",
+        "artistSubs": [
+            {
+                "artistName": "Louis Cole",
+                "maxGigDistance": 200
+            }
+        ]
+    },
+    {
+        "userName": "David",
+        "pw": "test",
+        "mail": "dominik.heyer@iubh-dualesstudium.de",
+        "locationLatLng":  [47.51564471457827, 16.229261140612177],
+        "distMetric": "miles",
+        "artistSubs":[
+            {
+                "artistName": "Louis Cole",
+                "maxGigDistance": 100
+            },
+            {
+                "artistName":"Peter Fox",
+                "maxGigDistance": 50
+            }
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "artistName": "Louis Cole",
+        "artistMarker": "L",
+        "gigData":[
+            {
+                "gigs": [
+                    {
+                        "date": "02.08.2023",
+                        "link":"https://en.nochesdelbotanico.com/artistas/avishai-cohen-louis-cole"
+                    },
+                    {
+                        "date": "12.08.2023",
+                        "link":"https://en.nochesdelbotanico.com/artistas/avishai-cohen-louis-cole"
+                    }
+                ],
+                "venueName": "Noches del Botanico",
+                "venueAdress": "Real Jardín Botánico Alfonso XIII, 28040 Madrid, Spain",
+                "venueLatLng" : [40.447489151964305, -3.7263801730141815]
+            }
+        ]
+    
+    },
+    {
+        "artistName": "Peter Fox",
+        "artistMarker": "P",
+        "gigData":[
+            {
+                "gigs": [
+                    {
+                        "date": "22.08.2023",
+                        "link":"https://www.waldbuehne-berlin.de/en/event/peter_fox_2023-08-22_19/"
+                    },
+                    {
+                        "date": "23.08.2023",
+                        "link":"https://www.waldbuehne-berlin.de/en/event/peter_fox_2023-08-23_19/"
+                    }
+                ],
+                "venueName": "Waldbühne Berlin",
+                "venueAdress": "Real Jardín Botánico Alfonso XIII, 28040 Madrid, Spain",
+                "venueLatLng" : [52.51564471457827, 13.229261140612177]
+            },
+            {
+                "gigs": [
+                    {
+                        "date": "23.08.2023",
+                        "link":"https://triptychon.org/"
+                    }
+                ],
+                "venueName": "Triptychon",
+                "venueAdress": "Am Hawerkamp 31, 48155 Münster Germany",
+                "venueLatLng" : [51.94409889402593, 7.6383962397818985]
+            }
+        ]
+    
+    }
+]

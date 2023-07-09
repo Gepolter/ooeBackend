@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"name": "webpack",
+			"path": "../../../Downloads/plot-prn-setup2-parameterGeneralization/plot-prn-setup2-parameterGeneralization/backend/webpack"
+		},
+		{
+			"name": "jobs",
+			"path": "../../../Downloads/plot-prn-setup2-parameterGeneralization/plot-prn-setup2-parameterGeneralization/backend/jobs"
+		},
+		{
+			"name": "ooeBackend",
+			"path": "."
+		},
+		{
+			"name": "models",
+			"path": "../../../Downloads/plot-prn-setup2-parameterGeneralization/plot-prn-setup2-parameterGeneralization/backend/models"
+		},
+		{
+			"name": "routes",
+			"path": "../../../Downloads/plot-prn-setup2-parameterGeneralization/plot-prn-setup2-parameterGeneralization/backend/routes"
+		}
+	],
+	"settings": {}
+}
